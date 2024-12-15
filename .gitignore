@@ -1,3 +1,5 @@
+*.pmtiles
+
 # Logs
 logs
 *.log

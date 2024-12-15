@@ -1,0 +1,20 @@
+{
+  "name": "maplibre-project",
+  "version": "1.0.0",
+  "description": "A MapLibre GL JS project with PMTiles integration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "maplibre-gl": "^4.7.1",
+    "pmtiles": "latest"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
